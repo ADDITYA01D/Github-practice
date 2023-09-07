@@ -1,0 +1,22 @@
+
+/* Portrait phones and smaller */
+
+@media (min-width : 500px) and (max-width : 1000px)
+{
+  .customWidthSmall
+    {
+      width: 90%
+    }
+}
+
+@media (min-width : 700px) and (max-width : 2000px)
+{
+  .customWidthBig
+    {
+      width: 400px;
+    }
+}
+
+.width1 {
+    width:30%;
+}
